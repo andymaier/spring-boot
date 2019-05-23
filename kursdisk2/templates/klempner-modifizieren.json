@@ -1,0 +1,12 @@
+{
+	"name": "Super Mario",
+	"gewicht": 95,
+	"faehigkeiten": [
+		{
+			"id": "xxxxx"
+		},
+		{
+			"id": "yyyyy"
+		}
+	]
+}
