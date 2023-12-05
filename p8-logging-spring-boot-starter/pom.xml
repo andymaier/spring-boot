@@ -21,7 +21,7 @@
 		<java.version>1.8</java.version>
 		<micrometer.version>1.0.6</micrometer.version>
 		<logstash-logback-encoder.version>5.2</logstash-logback-encoder.version>
-		<ch.qos.logback.version>1.2.3</ch.qos.logback.version>
+		<ch.qos.logback.version>1.2.13</ch.qos.logback.version>
 	</properties>
 
 	<dependencyManagement>
